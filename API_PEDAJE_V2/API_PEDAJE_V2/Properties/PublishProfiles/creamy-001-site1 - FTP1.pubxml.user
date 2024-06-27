@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win8140.site4now.net:21/site1</_PublishTargetUrl>
+    <History>True|2024-06-21T11:24:43.1998325Z||;True|2024-06-20T19:08:55.9994698-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="API_PEDAJE_V2.deps.json">
+      <publishTime>06/21/2024 06:23:52</publishTime>
+    </File>
+    <File Include="API_PEDAJE_V2.dll">
+      <publishTime>06/21/2024 06:23:51</publishTime>
+    </File>
+    <File Include="API_PEDAJE_V2.exe">
+      <publishTime>06/21/2024 06:23:51</publishTime>
+    </File>
+    <File Include="API_PEDAJE_V2.pdb">
+      <publishTime>06/21/2024 06:23:51</publishTime>
+    </File>
+    <File Include="API_PEDAJE_V2.runtimeconfig.json">
+      <publishTime>06/20/2024 18:46:51</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/19/2024 19:50:55</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>06/19/2024 20:01:32</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>04/17/2024 13:38:36</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>04/17/2024 13:39:16</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>04/17/2024 13:39:38</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 15:14:12</publishTime>
+    </File>
+    <File Include="MySqlConnector.dll">
+      <publishTime>01/20/2024 07:54:02</publishTime>
+    </File>
+    <File Include="Pomelo.EntityFrameworkCore.MySql.dll">
+      <publishTime>03/16/2024 04:50:50</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 10:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 10:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 10:21:48</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>06/21/2024 06:23:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
